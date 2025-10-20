@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文化資產 on MUZ 01</title>
+    <link>http://web.muz01.org/docs/dataset/muz2/</link>
+    <description>Recent content in 文化資產 on MUZ 01</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 May 2023 22:37:22 +0100</lastBuildDate>
+    <atom:link href="http://web.muz01.org/docs/dataset/muz2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1.1_古蹟</title>
+      <link>http://web.muz01.org/docs/dataset/muz2/d611/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz2/d611/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/1.1_古蹟_v20220812.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>1.2_歷史建築</title>
+      <link>http://web.muz01.org/docs/dataset/muz2/d612/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz2/d612/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/1.2_歷史建築v20230926.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>1.3_聚落建築群</title>
+      <link>http://web.muz01.org/docs/dataset/muz2/d613/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz2/d613/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/1.3_聚落建築群v20220812.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>1.4_紀念建築</title>
+      <link>http://web.muz01.org/docs/dataset/muz2/d614/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz2/d614/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/1.4_紀念建築v20220829.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>2.1_考古遺址</title>
+      <link>http://web.muz01.org/docs/dataset/muz2/d621/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz2/d621/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/2.1_考古遺址v20220812.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>3.1_文化景觀</title>
+      <link>http://web.muz01.org/docs/dataset/muz2/d631/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz2/d631/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/3.1_文化景觀v20220812.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>3.2_史蹟</title>
+      <link>http://web.muz01.org/docs/dataset/muz2/d632/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz2/d632/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/3.2_史蹟v20220826.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>4.1_傳統表演藝術</title>
+      <link>http://web.muz01.org/docs/dataset/muz2/d641/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz2/d641/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/4.1_傳統表演藝術v20220812.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>4.2_傳統工藝</title>
+      <link>http://web.muz01.org/docs/dataset/muz2/d642/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz2/d642/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/4.2_傳統工藝v20220812.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>5.1_民俗</title>
+      <link>http://web.muz01.org/docs/dataset/muz2/d651/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz2/d651/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/5.1_民俗v20220826.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>5.2_口述傳統</title>
+      <link>http://web.muz01.org/docs/dataset/muz2/d652/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz2/d652/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/5.2_口述傳統v20220829.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>5.3_傳統知識與實踐</title>
+      <link>http://web.muz01.org/docs/dataset/muz2/d653/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz2/d653/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/5.3_傳統知識與實踐v0829.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>6.1_文資局古物</title>
+      <link>http://web.muz01.org/docs/dataset/muz2/d661/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz2/d661/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/6.1_文資局古物v20220826.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+  </channel>
+</rss>

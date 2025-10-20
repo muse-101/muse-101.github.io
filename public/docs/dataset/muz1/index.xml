@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文化部館所 on MUZ 01</title>
+    <link>http://web.muz01.org/docs/dataset/muz1/</link>
+    <description>Recent content in 文化部館所 on MUZ 01</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 May 2023 22:37:22 +0100</lastBuildDate>
+    <atom:link href="http://web.muz01.org/docs/dataset/muz1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>d40 國父</title>
+      <link>http://web.muz01.org/docs/dataset/muz1/d40/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz1/d40/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/d40國父_s3.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>d41 中正</title>
+      <link>http://web.muz01.org/docs/dataset/muz1/d41/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz1/d41/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/d41中正_s3.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>d42 史博</title>
+      <link>http://web.muz01.org/docs/dataset/muz1/d42/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz1/d42/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/d42史博_s3.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>d43 國美</title>
+      <link>http://web.muz01.org/docs/dataset/muz1/d43/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz1/d43/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/d43國美_s3.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>d44 工藝</title>
+      <link>http://web.muz01.org/docs/dataset/muz1/d44/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz1/d44/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/d44工藝_s3.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>d45 臺博</title>
+      <link>http://web.muz01.org/docs/dataset/muz1/d45/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz1/d45/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/d45臺博_s3.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>d46 史前</title>
+      <link>http://web.muz01.org/docs/dataset/muz1/d46/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz1/d46/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/d46史前_s3.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>d47 臺交</title>
+      <link>http://web.muz01.org/docs/dataset/muz1/d47/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz1/d47/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/d47臺交_s3.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>d48 臺史</title>
+      <link>http://web.muz01.org/docs/dataset/muz1/d48/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz1/d48/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/d48臺史_s3.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>d49 臺文</title>
+      <link>http://web.muz01.org/docs/dataset/muz1/d49/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz1/d49/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/d49臺文_s3.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>d50 竹美</title>
+      <link>http://web.muz01.org/docs/dataset/muz1/d50/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz1/d50/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/d50竹美_s3.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>d51 彰美</title>
+      <link>http://web.muz01.org/docs/dataset/muz1/d51/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz1/d51/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/d51彰美_s3.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>d52 傳藝</title>
+      <link>http://web.muz01.org/docs/dataset/muz1/d52/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/muz1/d52/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/muz-dataset/main/d52傳藝_s3.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+  </channel>
+</rss>

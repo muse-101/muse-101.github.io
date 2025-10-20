@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NPM 故宮書畫 on MUZ 01</title>
+    <link>http://web.muz01.org/docs/dataset/npm2/</link>
+    <description>Recent content in NPM 故宮書畫 on MUZ 01</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 May 2023 22:37:22 +0100</lastBuildDate>
+    <atom:link href="http://web.muz01.org/docs/dataset/npm2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>d20 畫</title>
+      <link>http://web.muz01.org/docs/dataset/npm2/d20/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/npm2/d20/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/npm-dataset/main/d20畫_s1.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>d21 書</title>
+      <link>http://web.muz01.org/docs/dataset/npm2/d21/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/npm2/d21/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/npm-dataset/main/d21書_s1.csv&#34; &#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>d22 帖</title>
+      <link>http://web.muz01.org/docs/dataset/npm2/d22/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/npm2/d22/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/npm-dataset/main/d22帖_s1.csv&#34; &#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>d23 扇</title>
+      <link>http://web.muz01.org/docs/dataset/npm2/d23/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/npm2/d23/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/npm-dataset/main/d23扇_s1.csv&#34;&#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>d24 絲</title>
+      <link>http://web.muz01.org/docs/dataset/npm2/d24/</link>
+      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
+      <guid>http://web.muz01.org/docs/dataset/npm2/d24/</guid>
+      <description>&lt;iframe src=&#xA;&#34;https://muz-dataset.streamlit.app/~/+/?csv=&#xA;https://raw.githubusercontent.com/muse-101/npm-dataset/main/d24絲_s1.csv&#34; &#xA;width=&#34;100%&#34; height=&#34;900&#34; style=&#34;border:0;&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+  </channel>
+</rss>
