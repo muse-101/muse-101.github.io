@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>導賞 on MUZ 01</title>
-    <link>http://web.muz01.org/docs/discussion/</link>
+    <link>/docs/discussion/</link>
     <description>Recent content in 導賞 on MUZ 01</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://web.muz01.org/docs/discussion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/docs/discussion/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
